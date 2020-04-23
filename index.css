@@ -1,111 +1,111 @@
 body {
-	background-image: linear-gradient(rgba(24, 24, 24, 0.7), rgba(24, 24, 24, 0.7)), url('https://breweryprintshoppe.com/wp-content/uploads/2017/12/brewery-print-shoppe-background-keg-beer.jpg');
-	overflow: none;
-/* 	background-repeat: none; */
-	background-attachment: fixed;
-	background-position-y: -18em;
-	background-position-x: 40%;
-/* 	min-height: 300px; */
+    background-image: linear-gradient(rgba(24, 24, 24, 0.7), rgba(24, 24, 24, 0.7)), url('https://breweryprintshoppe.com/wp-content/uploads/2017/12/brewery-print-shoppe-background-keg-beer.jpg');
+    overflow: none;
+    /* 	background-repeat: none; */
+    background-attachment: fixed;
+    background-position-y: -18em;
+    background-position-x: 40%;
+    /* 	min-height: 300px; */
 }
 
 #logo {
-	height: 190px;
-/* 	margin-left: 45%; */
-/* 	margin-top: 25%; */
+    height: 190px;
+    /* 	margin-left: 45%; */
+    /* 	margin-top: 25%; */
 }
 
 #content-container {
-	padding-top:10%
+    padding-top:10%
 }
 
 .container {
-	text-align: center;
+    text-align: center;
 }
 
 #welcome-msg {
-	color: white;
-	font-family: sans-serif;
-/* 	margin-left: 33%; */
-	font-size: 3em;
-	display: none;
-	margin-top: 7vh;
+    color: white;
+    font-family: sans-serif;
+    /* 	margin-left: 33%; */
+    font-size: 3em;
+    display: none;
+    margin-top: 7vh;
 }
 
 #gate-container {
-/* 	text-align: center; */
-/* 	margin-left: 39%; */
-/* 	width: 20%; */
-	margin-top:2%;
+    /* 	text-align: center; */
+    /* 	margin-left: 39%; */
+    /* 	width: 20%; */
+    margin-top:2%;
 }
 
 #err-message {
-	color: white;
-	font-family: sans-serif;
-	margin-top: 5vh;
-	font-size: 1em;
-	display:none;
+    color: white;
+    font-family: sans-serif;
+    margin-top: 5vh;
+    font-size: 1em;
+    display:none;
 }
 
 #forms-container {
-	display: flex;
-	justify-content:center;
-/* 	width: 25%; */
-/* 	margin-left: 13%; */
-/* 	margin-top: 5vh; */
+    display: flex;
+    justify-content:center;
+    /* 	width: 25%; */
+    /* 	margin-left: 13%; */
+    /* 	margin-top: 5vh; */
 }
 
 .selects {
-	width: 10vw;
-	height: 5vh;
-	border-radius: 1em;
-/* 	padding-left: 1em; */
-	color: green;
-	font-weight: bold;
+    width: 10vw;
+    height: 5vh;
+    border-radius: 1em;
+    /* 	padding-left: 1em; */
+    color: green;
+    font-weight: bold;
 }
 
 #year-select {
-	margin-left: 2vh;
+    margin-left: 2vh;
 }
 
 #checkbox-container {
-	margin-top: 2vh;
-	margin-bottom: 2vh;
-	display: flex;
-	justify-content:center;
-	align-content:center;
-/* 	margin-left: 6.5vw; */
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    display: flex;
+    justify-content:center;
+    align-content:center;
+    /* 	margin-left: 6.5vw; */
 }
 
 #checkbox-text {
-	color: white;	
-	font-family: sans-serif;
+    color: white;	
+    font-family: sans-serif;
 }
 
 #submit-btn {
-	width: 11vw;
-	height: 6vh;
-	background-color: #29a329;
-	border: none;
-	font-family: sans-serif;
-	font-weight: 900;
-	color: white;
-	border-radius: 1vh;
-	cursor: pointer;
+    width: 11vw;
+    height: 6vh;
+    background-color: #29a329;
+    border: none;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: white;
+    border-radius: 1vh;
+    cursor: pointer;
 }
 
 /* Responsive Rules */
 
 @media screen and (max-width: 450px) {
-	#logo {
-		height: 180px;
-	}
-	.selects {
-		width: 26vw;
-	}
-	#submit-btn {
-		width: 25vw;
-	}
-	#gate-container {
-		margin-top: 4%;
-	}
+    #logo {
+        height: 180px;
+    }
+    .selects {
+        width: 26vw;
+    }
+    #submit-btn {
+        width: 25vw;
+    }
+    #gate-container {
+        margin-top: 4%;
+    }
 }
