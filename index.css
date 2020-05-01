@@ -3,7 +3,7 @@ body {
     overflow: none;
     /* 	background-repeat: none; */
     background-attachment: fixed;
-    background-position-y: -18em;
+    /* background-position-y: -18em; */
     background-position-x: 40%;
     /* 	min-height: 300px; */
 }
