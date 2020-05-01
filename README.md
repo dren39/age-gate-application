@@ -1,6 +1,6 @@
 README
 
-This application was designed to showcase an age gate functionality that one would expect to encounter when visiting websites that require the user to confirm that they are 18 years of age or older. The example used in this application is a brewery.
+This application was designed to showcase an age gate functionality that one would expect to encounter when visiting websites that require the user to confirm that they are 18 years of age or older. The example used in this application is the Brooklyn Brewery business.
 
 The application was built using pure HTML, CSS, and JavaScript.
 
