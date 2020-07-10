@@ -8,7 +8,6 @@ The age gate is designed to take a month and day input from the user. When the v
 
 ## Installation
 
-Installation is not required to run this application.\
-Simply open the index.html file in a browser; for best user experience please use Chrome.
+No installation is required to run this application. Simply open the index.html file in a browser. For best user experience please use Chrome.
 
 A demo can be used [here](https://dren39.github.io/age-gate-application/).
